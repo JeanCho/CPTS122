@@ -1,0 +1,21 @@
+﻿  TestPerson.cpp
+  Student.cpp
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\student.h(23): error C2061: syntax error: identifier 'Course'
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\student.h(28): error C2969: syntax error: ';': expected member function definition to end with '}'
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\student.h(34): error C2365: 'Student::totalCredits': redefinition; previous definition was 'member function'
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\student.h(21): note: see declaration of 'Student::totalCredits'
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\student.cpp(3): error C2059: syntax error: 'const'
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\student.cpp(3): error C2630: ';' found in what should be a comma-separated list
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\student.cpp(3): error C2612: trailing ':' illegal in base/member initializer list
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\student.cpp(18): fatal error C1004: unexpected end-of-file found
+  Person.cpp
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\person.cpp(3): error C2572: 'Person::Person': redefinition of default argument: parameter 1
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\person.h(14): note: see declaration of 'Person::Person'
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\person.cpp(3): error C2572: 'Person::Person': redefinition of default argument: parameter 2
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\person.h(14): note: see declaration of 'Person::Person'
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\person.cpp(3): error C2572: 'Person::Person': redefinition of default argument: parameter 3
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\person.h(14): note: see declaration of 'Person::Person'
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\person.cpp(3): error C2572: 'Person::Person': redefinition of default argument: parameter 4
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab11\lab11\person.h(14): note: see declaration of 'Person::Person'
+  main.cpp
+  Generating Code...

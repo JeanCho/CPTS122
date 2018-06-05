@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\note171213\note171213\main.cpp(38): error C2385: ambiguous access of 'breathe'
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\note171213\note171213\main.cpp(38): note: could be the 'breathe' in base 'Animal'
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\note171213\note171213\main.cpp(38): note: or could be the 'breathe' in base 'LivingThing'
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\note171213\note171213\main.cpp(38): error C2248: 'Animal::breathe': cannot access protected member declared in class 'Animal'
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\note171213\note171213\main.cpp(12): note: see declaration of 'Animal::breathe'
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\note171213\note171213\main.cpp(10): note: see declaration of 'Animal'
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\note171213\note171213\main.cpp(39): error C2248: 'Reptile::crawl': cannot access protected member declared in class 'Reptile'
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\note171213\note171213\main.cpp(19): note: see declaration of 'Reptile::crawl'
+  c:\users\nicet\desktop\classes\cc++\cpts122\lab\note171213\note171213\main.cpp(17): note: see declaration of 'Reptile'

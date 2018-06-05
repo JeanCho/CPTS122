@@ -1,0 +1,6 @@
+﻿  main.cpp
+  BST.cpp
+  Generating Code...
+c:\users\nicet\desktop\classes\cc++\cpts122\lab\lab8\lab8\bst.cpp(49): warning C4715: 'BST::insertNode': not all control paths return a value
+  Lab8.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\CPTS122\Lab\Lab8\Debug\Lab8.exe
+  Lab8.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\CPTS122\Lab\Lab8\Debug\Lab8.pdb (Full PDB)
