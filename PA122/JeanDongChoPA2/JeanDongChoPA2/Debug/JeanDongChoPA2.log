@@ -1,0 +1,125 @@
+﻿  main.c
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(84): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(108): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(111): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\main.c(117): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  funct.c
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(7): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(43): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(45): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(82): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(108): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(109): warning C4133: '!=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(127): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(130): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(152): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(153): warning C4133: '!=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(171): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(174): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(191): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(192): warning C4133: '!=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(209): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(212): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(229): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(230): warning C4133: '!=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(247): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(250): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(94): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(282): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(303): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(336): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(345): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(346): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(347): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(397): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(385): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(389): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(520): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(426): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(440): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(482): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(490): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(498): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(506): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(564): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(605): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(607): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(608): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(609): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(554): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(580): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(581): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(586): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(587): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(589): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(590): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(591): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(592): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(593): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(594): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(595): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(647): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(676): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(687): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(698): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(712): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(640): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(648): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(679): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(688): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(713): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(741): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(786): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(823): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(821): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+c:\users\nicet\desktop\classes\cc++\cpts122\pa122\jeandongchopa2\jeandongchopa2\funct.c(265): warning C4716: 'sort': must return a value
+  JeanDongChoPA2.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\CPTS122\PA122\JeanDongChoPA2\Debug\JeanDongChoPA2.exe
+  JeanDongChoPA2.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\CPTS122\PA122\JeanDongChoPA2\Debug\JeanDongChoPA2.pdb (Full PDB)
